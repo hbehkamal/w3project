@@ -1,0 +1,30 @@
+CACHE MANIFEST
+
+# HBL Project
+
+CACHE:
+index.html
+index1.html
+index2.html
+styles/style.css
+styles/style1.css
+images/logo.png
+images/logo2.png
+images/1.jpg
+images/2.jpg
+images/3.jpg
+images/4.jpg
+images/5.jpg
+images/a.png
+images/b.png
+images/c.png
+images/d.png
+images/e.png
+js.js
+js1.js
+
+NETWORK:
+*
+
+FALLBACK:
+*
