@@ -9,9 +9,9 @@ W3 Project
 <h2>Credits:</h2>
 
 <ol>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Stylus</li>
-  <li>Javascript</li>
-  <li>JQuery</li>
+  <li><a href="#">HTML5</a></li>
+  <li><a href="#">CSS3</a></li>
+  <li><a href="#">Stylus</a></li>
+  <li><a href="#">Javascript</a></li>
+  <li><a href="#">JQuery</a></li>
 </ol>
